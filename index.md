@@ -1,8 +1,6 @@
 ## Yifan Ou 欧逸帆
 
-You can use the [editor on GitHub](https://github.com/YifanOumedialife/Yifanouphd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我是鲁汶大学大众传播学院博士候选人（荷兰语校区），师从Prof. Steven Eggermont教授。
 
 ### Markdown
 
