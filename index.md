@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Yifan Ou 欧逸帆
 
 You can use the [editor on GitHub](https://github.com/YifanOumedialife/Yifanouphd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
